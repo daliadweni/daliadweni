@@ -2,7 +2,7 @@
 <h3 align="center">I’m a Full-stack developer living in Sfax , Tunisia</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daliadweni" alt="daliadweni" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=daliadweni" alt="daliadweni" /> </p>
 
 - 📫 How to reach me **mouhamedaliadoinii@gmail.com**
 
